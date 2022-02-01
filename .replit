@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "cd 03-task-manager/starter&&npm start"
